@@ -28,15 +28,11 @@
 <folder appearance="1" expanded="2">
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
-<part id="1"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="com.tomato.exerd.editor.DiagramEditor" name="1Team_project.exerd" partName="1Team_project.exerd" title="1Team_project.exerd" tooltip="C:\java86\ExerdWorkSpace\1Team_project.exerd" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/java86/ExerdWorkSpace/1Team_project.exerd"/>
-</editor>
-<editor focus="true" id="com.tomato.exerd.editor.DiagramEditor" name="BitSchedule.exerd" partName="BitSchedule.exerd" path="E:/Project/JAVA/ExerdWorkSpace/일정관리/BitSchedule.exerd" title="BitSchedule.exerd" tooltip="일정관리/BitSchedule.exerd" workbook="DefaultEditorWorkbook">
+<editor activePart="true" focus="true" id="com.tomato.exerd.editor.DiagramEditor" name="BitSchedule.exerd" partName="BitSchedule.exerd" path="C:/java86/Balsamiq-ExerdWorkSpace/일정관리/BitSchedule.exerd" title="BitSchedule.exerd" tooltip="일정관리/BitSchedule.exerd" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/일정관리/BitSchedule.exerd"/>
 </editor>
 </editors>
@@ -67,7 +63,7 @@
 <viewState/>
 </view>
 </views>
-<perspectives activePart="com.tomato.exerd.ui.views.thumbnail" activePerspective="com.tomato.exerd.perspective.design">
+<perspectives activePart="com.tomato.exerd.editor.DiagramEditor" activePerspective="com.tomato.exerd.perspective.design">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="com.tomato.exerd.perspective.ExerdPerspectiveFactory" id="com.tomato.exerd.perspective.design" label="eXERD"/>
 <alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
@@ -140,7 +136,7 @@
 </folder>
 </info>
 <info folder="true" part="bottomFolder" ratio="0.69860893" ratioLeft="452" ratioRight="195" relationship="4" relative="org.eclipse.ui.editorss">
-<folder activePageID="com.tomato.exerd.validate.ui.ValidateView" appearance="2" expanded="2">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="com.tomato.exerd.ui.views.domain" label="도메인"/>
 <page content="com.tomato.exerd.validate.ui.ValidateView" label="검토"/>
 <page content="org.eclipse.ui.console.ConsoleView" label="콘솔"/>
@@ -169,6 +165,7 @@
 <editors>
 <editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.tomato.exerd.editor.DiagramEditor" uri="file:/C:/java86/ExerdWorkSpace/1Team_project.exerd"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.tomato.exerd.editor.DiagramEditor" path="/일정관리/BitSchedule.exerd"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.tomato.exerd.editor.DiagramEditor" uri="file:/C:/java86/ExerdWorkSpace/1Team_project.exerd"/>
 </editors>
 <item historyLabel="1Team_project.exerd" index="0"/>
 <item historyLabel="BitSchedule.exerd" index="1"/>
@@ -183,6 +180,10 @@
 <item historyLabel="1Team_project.exerd" index="0"/>
 <item historyLabel="BitSchedule.exerd" index="1"/>
 <item historyLabel="1Team_project.exerd" index="0"/>
+<item historyLabel="BitSchedule.exerd" index="1"/>
+<item historyLabel="1Team_project.exerd" index="2"/>
+<item historyLabel="BitSchedule.exerd" index="1"/>
+<item historyLabel="1Team_project.exerd(읽기 전용)" index="2"/>
 <item active="true" historyLabel="BitSchedule.exerd" index="1"/>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
