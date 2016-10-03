@@ -32,7 +32,7 @@
 </folder>
 </info>
 </editorArea>
-<editor activePart="true" focus="true" id="com.tomato.exerd.editor.DiagramEditor" name="BitSchedule.exerd" partName="BitSchedule.exerd" path="C:/java86/Balsamiq-ExerdWorkSpace/일정관리/BitSchedule.exerd" title="BitSchedule.exerd" tooltip="일정관리/BitSchedule.exerd" workbook="DefaultEditorWorkbook">
+<editor activePart="true" focus="true" id="com.tomato.exerd.editor.DiagramEditor" name="BitSchedule.exerd" partName="BitSchedule.exerd" path="D:/JAVA/Balsamiq-ExerdWorkSpace/일정관리/BitSchedule.exerd" title="BitSchedule.exerd" tooltip="일정관리/BitSchedule.exerd" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/일정관리/BitSchedule.exerd"/>
 </editor>
 </editors>
